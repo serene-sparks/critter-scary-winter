@@ -26,7 +26,7 @@ jobs:
     - name: Get pack version
       id: version
       run: |
-        VERSION=$(grep -oP '(?<=version = ")[^"]*' pack.toml || echo "unknown")
+        VERSION=$(grep '^version = ' pack.toml | cut -d'"' -f2 || echo "unknown")
         echo "version=$VERSION" >> $GITHUB_OUTPUT
         echo "Modrinth modpack version: $VERSION"
     
