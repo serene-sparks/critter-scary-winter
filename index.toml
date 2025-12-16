@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/build.yml"
+hash = "4c14bb88bc8d344a9e47c38141433e546f43d6d1a11016cfc61e1e28e8639a63"
+
+[[files]]
+file = ".vscode/.local-history/.history/scary-winter/.github/workflows/build_20251215201521.yml"
+hash = "8a36daaf774909904f99e735db908b478c6cc8865f9b617d45b80715c903171e"
+
+[[files]]
+file = ".vscode/.local-history/.history/scary-winter/.github/workflows/build_20251215202132.yml"
+hash = "4c14bb88bc8d344a9e47c38141433e546f43d6d1a11016cfc61e1e28e8639a63"
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "5a53be204efcb61ed865b934d60f0ed29fa74d02ebecb1276f668d6baa57e40b"
 metafile = true
@@ -46,6 +58,10 @@ hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
 
 [[files]]
+file = "mods/irritator-1.7.jar"
+hash = "3f2c5dfbbe67d8f611b3bea4c01df36927533c451b257a1a7d8e87cc800fecfc"
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "6b7b35db4ccf235d771504c313fb2897139c2f8f8b8857d9b00b97b5b9d624d8"
 metafile = true
@@ -83,11 +99,6 @@ metafile = true
 [[files]]
 file = "mods/the-graveyard-forge.pw.toml"
 hash = "186d2f08eed90d06eabb3a1be3c2b831f9d9127fe3297e8be8a705f1e079cbcd"
-metafile = true
-
-[[files]]
-file = "mods/the-irritator-dweller.pw.toml"
-hash = "94b5ef0b08ecdba75f0722bdc6ed85199bd69584654c600625972301bda94d4c"
 metafile = true
 
 [[files]]
