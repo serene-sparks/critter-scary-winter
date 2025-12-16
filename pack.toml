@@ -1,0 +1,13 @@
+name = "Scary Winter"
+author = "Forrest"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "208b80b99c6225b939c2851c90b391ddfbf71e100943c07c0243837abc3a545d"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"

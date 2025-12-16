@@ -1,0 +1,101 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "5a53be204efcb61ed865b934d60f0ed29fa74d02ebecb1276f668d6baa57e40b"
+metafile = true
+
+[[files]]
+file = "mods/apollyon.pw.toml"
+hash = "9c58cfc7db7a2832b35153e9b1ca337d051c812a29ebeb0324bb0980146c516f"
+metafile = true
+
+[[files]]
+file = "mods/cave-dweller-evolved.pw.toml"
+hash = "fa52f73b4a98378092e9194dc325e98f9339c2855d1ada185e8c3ba004ea39cb"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "022efa6ce8fade5828ba182b42818ba8f2c1d0ca284ffaab7f91b2c572bb834b"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "9f2ffb0d4c65fcb2a96878287a7119459b9d0637c395e5097d691416690d6563"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "7b411f636c4a61db20882904e79625750ff1230c83763a0a426c04a8bbf8d7f1"
+metafile = true
+
+[[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "c2fb39a9d55078a3929cfee2b922b725704d0fdff4b24936b2c0d1500061885d"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "a66ce8fdd15abadd17b5d3d62e5bca0afe8209c081c8be1407b0e6166c8714d9"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "6b7b35db4ccf235d771504c313fb2897139c2f8f8b8857d9b00b97b5b9d624d8"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "8dd17f19e28b517c1ce56a2024ece8a37ca9bc866079d23969cc3811577861a4"
+metafile = true
+
+[[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "d247fe0ad5c3c74b3fc7f29db3b9f9d6897cac0ed2da10ef9419a26878861c7b"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "7a5aeffc745bff7b696683df2cf63ad32fb9d1e35c2ba117698672eeb6adaa74"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "5f395b2eb6cb717b844944fa7e77ea4cc6989d72b209b5fb114dcb07f4bceade"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "3848bc11aa2acabef74eb85ca74b8ca8e23733b7fcbc77293165c5c7161e3288"
+metafile = true
+
+[[files]]
+file = "mods/the-boiled-one-reimagined.pw.toml"
+hash = "629a32aab522ca2afb4a9d96b7ec337d8bec9d2976df56294a70ba7c8d7dd238"
+metafile = true
+
+[[files]]
+file = "mods/the-graveyard-forge.pw.toml"
+hash = "186d2f08eed90d06eabb3a1be3c2b831f9d9127fe3297e8be8a705f1e079cbcd"
+metafile = true
+
+[[files]]
+file = "mods/the-irritator-dweller.pw.toml"
+hash = "94b5ef0b08ecdba75f0722bdc6ed85199bd69584654c600625972301bda94d4c"
+metafile = true
+
+[[files]]
+file = "mods/the-knocker.pw.toml"
+hash = "7f97f44cb7576e5c043ce587315f86b649f4902b32532ba7488f6e6359e71143"
+metafile = true
+
+[[files]]
+file = "mods/the-man-from-the-fog.pw.toml"
+hash = "ee2c3631dbbb9e01ee2455c10111c661a118fb6ed91fbc0aa11fbdc2ae411ed0"
+metafile = true
